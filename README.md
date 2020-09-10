@@ -6,7 +6,7 @@ N-array
 TTBox : A MatLab Toolbox for the computation of 1D Teleseismic Travel Times https://doi.org/10.1785/gssrl.75.6.726
 
 
-(2) **backprojection**: backprojection.m (modify parameters.m file)
+(2) **backprojection**: backprojection_array.m (modify parameters.m file)
 
 
 Written in Matlab
